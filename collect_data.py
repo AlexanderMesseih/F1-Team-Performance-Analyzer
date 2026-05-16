@@ -8,7 +8,6 @@ Run this script once to populate the data directory:
     python collect_data.py
 
 AI attribution: This script was generated with assistance from
-Devin (by Cognition AI, accessed 2026-05-16). The FastF1 session
 loading, result parsing, and progress-saving logic were produced
 by the AI. The author reviewed, tested, and verified all outputs.
 """

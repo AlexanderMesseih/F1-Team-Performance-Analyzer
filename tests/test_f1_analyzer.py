@@ -6,7 +6,6 @@ Run with:
     pytest tests/test_f1_analyzer.py
 
 AI attribution: These tests were generated with assistance from
-Devin (by Cognition AI, accessed 2026-05-16). The test structure,
 assertions, and expected-value reasoning were produced by the AI.
 The author reviewed, ran, and verified all tests pass.
 """

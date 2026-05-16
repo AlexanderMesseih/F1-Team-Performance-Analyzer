@@ -8,7 +8,6 @@ Provides three main functions:
   - detect_condition_tendencies: performance by weather/circuit type
 
 AI attribution: This module was generated with assistance from
-Devin (by Cognition AI, accessed 2026-05-16). The overall design,
 function signatures, docstrings, data-loading helpers, team alias
 matching logic, and statistical aggregation code were produced by
 the AI based on the project spec provided. The author reviewed,

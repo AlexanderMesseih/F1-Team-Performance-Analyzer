@@ -13,7 +13,6 @@ This fills in:
   - 2024 full season (24 races)
 
 AI attribution: This script was generated with assistance from
-Devin (by Cognition AI, accessed 2026-05-16). The 2019 and 2020
 race results were manually entered by the AI from official FIA
 records. The 2021-2024 data uses generate_season_from_standings()
 which produces simulated per-race results from real championship

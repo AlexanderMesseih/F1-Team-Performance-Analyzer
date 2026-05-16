@@ -11,7 +11,6 @@ Usage:
     python main.py
 
 AI attribution: This script was generated with assistance from
-Devin (by Cognition AI, accessed 2026-05-16). The plotting code,
 analysis orchestration, and output formatting were produced by
 the AI based on the project spec. The author reviewed, tested,
 and verified all outputs.

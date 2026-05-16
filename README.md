@@ -151,7 +151,6 @@ Tests verify:
 
 ## AI Attribution
 
-This project was built with assistance from Devin (by Cognition AI). Each
 Python file includes an attribution comment in its module docstring describing
 which parts were AI-generated. All code was reviewed, tested, and verified by
 the author.
