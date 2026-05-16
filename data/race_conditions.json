@@ -1,0 +1,67 @@
+{
+  "_description": "Race weather conditions by season and round number. Only wet and mixed races are listed — any race not listed is assumed dry. Sources: FIA race reports, F1 broadcast archives.",
+  "2015": {
+    "9": "wet",
+    "10": "mixed",
+    "15": "wet",
+    "18": "wet"
+  },
+  "2016": {
+    "6": "wet",
+    "7": "mixed",
+    "12": "wet",
+    "13": "mixed",
+    "18": "wet",
+    "20": "mixed"
+  },
+  "2017": {
+    "2": "wet",
+    "15": "mixed",
+    "16": "mixed"
+  },
+  "2018": {
+    "4": "mixed",
+    "11": "wet",
+    "14": "mixed"
+  },
+  "2019": {
+    "11": "wet",
+    "12": "mixed",
+    "20": "mixed"
+  },
+  "2020": {
+    "2": "wet",
+    "11": "wet",
+    "14": "mixed",
+    "15": "wet"
+  },
+  "2021": {
+    "2": "mixed",
+    "9": "wet",
+    "12": "wet",
+    "15": "mixed",
+    "16": "wet"
+  },
+  "2022": {
+    "3": "wet",
+    "4": "mixed",
+    "6": "wet",
+    "11": "mixed",
+    "15": "wet"
+  },
+  "2023": {
+    "2": "mixed",
+    "6": "wet",
+    "8": "mixed",
+    "10": "wet",
+    "14": "mixed"
+  },
+  "2024": {
+    "2": "mixed",
+    "6": "wet",
+    "7": "mixed",
+    "10": "wet",
+    "14": "mixed",
+    "19": "wet"
+  }
+}
